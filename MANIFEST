@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+README
+Makefile.PL
+bin/sh2perl.PL
+t/00_hello.t
+t/01_args.t
