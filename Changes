@@ -1,5 +1,9 @@
 Revision history for Perl tool sh2perl.
 
+0.04  Sat Jan 24 06:53:38 2004
+	- updated using modern Makefile.PL and testing facility
+	- removed DHD
+
 0.03  Tue Mar 30 15:12:08 1999
 	- fixed URL for Perl Training
 	- verified Y2K compatibility

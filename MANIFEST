@@ -1,8 +1,8 @@
 Changes
+Makefile.PL
 MANIFEST
 README
-Makefile.PL
-bin/sh2perl.PL
-test.pl
-tests/00_hello.t
-tests/01_args.t
+script/sh2perl.PL
+t/00_hello.t
+t/01_args.t
+META.yml                                 Module meta-data (added by MakeMaker)

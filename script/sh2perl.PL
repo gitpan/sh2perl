@@ -1,7 +1,7 @@
 use Config;
 use File::Basename qw(basename dirname);
 
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 chdir(dirname($0));
 ($file = basename($0)) =~ s/\.PL$//;
@@ -67,10 +67,6 @@ may eliminate this bug.
 Handles the One True Shell (C</bin/sh>) only.  Other shells will
 probably not be supported.  (Use the I<csh2sh> tool first on
 C-shell scripts.)
-
-=head1 Y2K COMPLIANCE
-
-This distribution has no known Y2K problems.
 
 =head1 PERL TRAINING
 
