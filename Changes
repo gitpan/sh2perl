@@ -1,5 +1,10 @@
 Revision history for Perl tool sh2perl.
 
+0.03  Tue Mar 30 15:12:08 1999
+	- fixed URL for Perl Training
+	- verified Y2K compatibility
+	- verified compatibility with Perl 5.005
+
 0.02  Sun Mar 29 11:08:35 1998
 	- added email on success
 	- updated documentation
