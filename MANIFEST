@@ -3,5 +3,6 @@ MANIFEST
 README
 Makefile.PL
 bin/sh2perl.PL
-t/00_hello.t
-t/01_args.t
+test.pl
+tests/00_hello.t
+tests/01_args.t

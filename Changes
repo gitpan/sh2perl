@@ -1,5 +1,10 @@
 Revision history for Perl tool sh2perl.
 
+0.02  Sun Mar 29 11:08:35 1998
+	- added email on success
+	- updated documentation
+	- updated version number :-)
+
 0.01  Wed Mar 25 12:37:51 1998
 	- original version
 

@@ -1,7 +1,7 @@
 use Config;
 use File::Basename qw(basename dirname);
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 chdir(dirname($0));
 ($file = basename($0)) =~ s/\.PL$//;
@@ -52,7 +52,8 @@ L<a2p>, L<s2p>, L<perl>
 
 =head1 AUTHOR
 
-Randal L. Schwartz E<lt>merlyn@stonehenge.comE<gt>
+Randal L. Schwartz, C<merlyn@stonehenge.com>,
+C<http://www.stonehenge.com/merlyn/>.
 
 =head1 BUGS
 
@@ -67,15 +68,9 @@ Handles the One True Shell (C</bin/sh>) only.  Other shells will
 probably not be supported.  (Use the I<csh2sh> tool first on
 C-shell scripts.)
 
-=head1 VERSION HISTORY
+=head1 PERL TRAINING
 
-=over 4
-
-=item 1998/04/01 0.01AF
-
-Initial release.
-
-=back
+Learn Perl now!  Visit our website at C<http://www.perltraining.com>!
 
 =cut
 !NO!SUBS!
